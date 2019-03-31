@@ -11,5 +11,5 @@ indent_size = 2
 [{*.cql, *.ddl, *.sql}]
 indent_size = 2
 
-[*.xml]
+[{*.xml, *.yml}]
 indent_size = 2
